@@ -1,0 +1,17 @@
+# Core Runtime & Web Framework
+streamlit>=1.35.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+
+# AI & Agentic Orchestration
+openai>=1.25.0
+langgraph>=0.0.35
+langchain-core>=0.1.40
+
+# Data & Numerical Utilities
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0

@@ -1,0 +1,28 @@
+# Environment variables & secrets
+.env
+*.env
+
+# SQLite Databases & logs
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+
+# Python virtual environment & cache
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.streamlit/secrets.toml
